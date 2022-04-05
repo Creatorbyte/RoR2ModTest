@@ -5,7 +5,6 @@ Just simple stuff intended to setup my dev environment mostly and play around wi
 This is currently just a simple mod that lets you spawn items using the num pad.<br>
 You can get the latest build from the releases tab or build it yourself.<br>
 
-<br>
 ### Usage Instructions
 numpad0 - a random white item<br>
 numpad1 - a random green item<br>
@@ -23,7 +22,6 @@ numpad_plus - Captain's Defensive Microbot<br>
 alpha1 - Pearl<br>
 alpha2 - Shiny pearl
 
-<br>
 ### Build Instructions
 If you want to change the code for this mod or attempt to build it yourself, you will need to setup a few dependencies first using NuGet.<br> You can find all the necessary dependency packages in ROR2TestMod.csproj and you can install them by using the following NuGet command:
 ```
