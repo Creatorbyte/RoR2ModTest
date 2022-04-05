@@ -4,7 +4,7 @@ my first attempt at a risk of rain 2 mod using BepInEx and R2API.
 Just simple stuff intended to setup my dev environment mostly and play around with the modding API. 
 This is currently just a simple mod that lets you spawn items using the num pad.<br>
 You can get the latest build from the releases tab or build it yourself.<br>
-## Usage Instructions
+### Usage Instructions
 numpad0 - a random white item<br>
 numpad1 - a random green item<br>
 numpad2 - a random red item<br>
@@ -21,7 +21,7 @@ numpad_plus - Captain's Defensive Microbot<br>
 alpha1 - Pearl<br>
 alpha2 - Shiny pearl
 
-## Build Instructions
+### Build Instructions
 If you want to change the code for this mod or attempt to build it yourself, you will need to setup a few dependencies first using NuGet.<br> You can find all the necessary dependency packages in ROR2TestMod.csproj and you can install them by using the following NuGet command:
 ```
 dotnet add package SomeName.LibName -v *-*
