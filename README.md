@@ -1,8 +1,8 @@
 # RoR2ModTest
-my first attempt at a risk of rain 2 mod using BepInEx and R2API.
+This is my first attempt at a risk of rain 2 mod using BepInEx and R2API.
 
-Just simple stuff intended to setup my dev environment mostly and play around with the modding API. 
-This is currently just a simple mod that lets you spawn items using the num pad.<br>
+Right now its just simple stuff. For this project I mostly just intended to setup my dev environment and play around with the modding API. 
+This is currently just a simple mod that lets you spawn items using the num pad. I might add more features or I might not; only time will tell<br>
 You can get the latest build from the releases tab or build it yourself.<br>
 
 ### Usage Instructions
